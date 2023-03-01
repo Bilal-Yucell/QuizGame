@@ -1,7 +1,7 @@
 # QuizGame
 
 ## Instruction
-You can start the game by opening the "menu" scene.
+You can start the game by opening the "Main" scene in the "Scenes" folder.
 
 ## About The Game And Gameplay
 
