@@ -1,7 +1,7 @@
 # QuizGame
 
 ## Instruction
-You can start the game by opening the "menu" scene.
+You can start the game by opening the "menu" scene. Or you can open the appropriate build for your computer from the Builds folder and play.
 
 ## About The Game And Gameplay
 
